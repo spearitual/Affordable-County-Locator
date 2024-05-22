@@ -1,5 +1,6 @@
 # Affordable-County-Locator
-Use your income, budget, and family size to determine the most affordable US county for you!
+Use your income, budget, and family size to determine the most affordable US county for you!\
+Access the app at https://huggingface.co/spaces/ScottScroggins/Affordable_County_Locator
 
 Instructions:\
 Parts 1 and 2 should be straightforward. Make sure you submit monthly values, not annual. The data does not include families with more than two adults or more than four children, so these are not given as options.
